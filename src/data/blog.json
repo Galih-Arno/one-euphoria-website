@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "The Best Surfboards for Beginners",
+        "image": "/images/s1.jpg",
+        "excerpt": "Looking for the perfect beginner surfboard? Here are our top picks...",
+        "content": "When starting out in surfing, choosing the right board is crucial..."
+    },
+    {
+        "id": 2,
+        "title": "How to Stay Safe While Surfing",
+        "image": "/images/s2.jpg",
+        "excerpt": "Safety is key when surfing. Learn essential safety tips here...",
+        "content": "Surfing is fun, but being aware of potential dangers is important..."
+    },
+    {
+        "id": 3,
+        "title": "Top Surfing Destinations in 2025",
+        "image": "/images/s3.jpg",
+        "excerpt": "Want to ride the best waves? These are the must-visit surf spots...",
+        "content": "Whether you're a beginner or a pro, these spots are worth visiting..."
+    }
+]

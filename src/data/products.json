@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "WaveMaster 3000",
+        "price": 450,
+        "image": "/images/s1.jpg",
+        "description": "A high-performance surfboard designed for big waves.",
+        "category": "Professional"
+    },
+    {
+        "id": 2,
+        "name": "SafeRider Pro",
+        "price": 380,
+        "image": "/images/s2.jpg",
+        "description": "Perfect for beginners, offering maximum stability and safety.",
+        "category": "Beginner"
+    },
+    {
+        "id": 3,
+        "name": "StormChaser X",
+        "price": 500,
+        "image": "/images/s3.jpg",
+        "description": "Built for speed and control in extreme conditions.",
+        "category": "Advanced"
+    }
+]
