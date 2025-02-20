@@ -4,19 +4,6 @@ Welcome to the **One Euphoria** website repository! This is a modern, responsive
 
 ---
 
-## 📌 **Table of Contents**
-- [About the Project](#about-the-project)  
-- [Features](#features)  
-- [Tech Stack](#tech-stack)  
-- [Getting Started](#getting-started)  
-- [Usage](#usage)  
-- [Screenshots](#screenshots)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
-
----
-
 ## 🌟 **About the Project**
 One Euphoria is dedicated to crafting premium surfboards that offer both performance and safety. This website aims to:  
 - Showcase surfboard products with detailed descriptions and images.  
@@ -31,15 +18,12 @@ One Euphoria is dedicated to crafting premium surfboards that offer both perform
 - 🌟 **Customer Testimonials** — Real reviews from satisfied customers.  
 - 🌙 **Dark Mode** — Seamless switch between light and dark themes.  
 - 📱 **Responsive Design** — Looks stunning on all devices.  
-- ⚡ **Fast Performance** — Optimized with lazy loading and SEO best practices.  
+- ⚡ **Fast Performance** — Optimized with lazy loading.  
 
 ---
 
 ## 🛠️ **Tech Stack**
 - **Frontend:** Vue.js 3, TailwindCSS  
-- **Animations:** Framer Motion  
-- **Carousel:** Vue3 Slick Carousel  
-- **Deployment:** Vercel / Netlify  
 
 ---
 
@@ -90,9 +74,9 @@ npm run preview
 ---
 
 ## 📞 **Contact**
-- **Name:** Your Name  
-- **Email:** your.email@example.com  
-- **Website:** [One Euphoria](https://oneeuphoria.com)  
+- **Name:** Galih Gratia Arno 
+- **Email:** galihgratiaarno@gmail.com 
+- **Website:** [One Euphoria](https://oneeuphoria.example)  
 
 ---
 
